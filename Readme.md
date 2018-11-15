@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapPushpinSettings_Example/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapPushpinSettings_Example/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: Customize auto-generated map pushpins' marker template and the template
 
 
