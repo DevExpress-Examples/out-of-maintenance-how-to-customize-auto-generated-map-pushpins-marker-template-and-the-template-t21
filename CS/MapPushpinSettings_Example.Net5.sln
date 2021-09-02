@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapPushpinSettings_Example", "MapPushpinSettings_Example\MapPushpinSettings_Example.csproj", "{6C4B83A7-91E4-4D1D-827F-0D3446D221A9}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapPushpinSettings_Example", "MapPushpinSettings_Example\MapPushpinSettings_Example.Net5.csproj", "{6C4B83A7-91E4-4D1D-827F-0D3446D221A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
